@@ -1,0 +1,42 @@
+
+.container{
+    text-align: center;
+    
+    
+}
+#body{
+    background-color: #393E46;
+
+}
+#image{
+    width: 200px;
+    height: 200px;
+}
+#images{
+    width: 200px;
+    height: 200px;
+
+}
+#heading{
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    color: #4ECCA3;
+    text-shadow:  5px 0 #232931;
+    margin: 50px;
+}
+.left{
+    margin-left: 300px;
+}
+.right{
+    margin-right: 300px;
+}
+p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+  }
+  .footer{
+    color: #4ECCA3;
+    margin-top: 50px;
+  }
+  
